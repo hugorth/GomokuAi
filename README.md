@@ -52,5 +52,5 @@ Run the binary directly. Since it expects protocol commands via standard input, 
 - `src/algo/` - AI logic including the Minimax algorithm and pattern evaluation.
 - `test/` - Contains tests for the engine.
 
-## 🎓 Academic Project
+## Academic Project
 This is an academic project created for EPITECH (2025).
